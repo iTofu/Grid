@@ -3,9 +3,9 @@
 <p align="center">
 
 <a href="https://travis-ci.org/iTofu/Grid"><img src="https://img.shields.io/travis/iTofu/Grid.svg?style=flat"></a>
-<a href="http://cocoadocs.org/docsets/Gri"><img src="https://img.shields.io/cocoapods/v/Grid.svg"></a>
-<a href="https://raw.githubusercontent.com/iTofu/Grid/master/LICENSE"><img src="https://img.shields.io/cocoapods/l/Grid.svg"></a>
-<a href="http://cocoadocs.org/docsets/Grid"><img src="https://img.shields.io/cocoapods/p/Grid.svg"></a>
+<a href="http://cocoadocs.org/docsets/Grids"><img src="https://img.shields.io/cocoapods/v/Grids.svg"></a>
+<a href="https://raw.githubusercontent.com/iTofu/Grid/master/LICENSE"><img src="https://img.shields.io/cocoapods/l/Grids.svg"></a>
+<a href="http://cocoadocs.org/docsets/Grids"><img src="https://img.shields.io/cocoapods/p/Grids.svg"></a>
 <a href="https://LeoDev.me"><img src="https://img.shields.io/badge/blog-LeoDev.me-brightgreen.svg"></a>
 
 </p>
