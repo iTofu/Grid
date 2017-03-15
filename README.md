@@ -1,16 +1,24 @@
 <H1 align="center">Grid</H1>
 
-🏁 Grid layout, making views equidistant. Base on [SnapKit](https://github.com/SnapKit/SnapKit). (Waiting [logo](mailto:leodaxia@gmail.com)...)
+<p align="center">
 
-[![Travis](https://img.shields.io/travis/iTofu/Grid.svg?style=flat)](https://travis-ci.org/iTofu/Grid)
-[![CocoaPods](https://img.shields.io/cocoapods/v/Grid.svg)](http://cocoadocs.org/docsets/Grid)
-[![CocoaPods](https://img.shields.io/cocoapods/l/Grid.svg)](https://raw.githubusercontent.com/iTofu/Grid/master/LICENSE)
-[![CocoaPods](https://img.shields.io/cocoapods/p/Grid.svg)](http://cocoadocs.org/docsets/Grid)
-[![LeoDev](https://img.shields.io/badge/blog-LeoDev.me-brightgreen.svg)](https://LeoDev.me)
+<a href="https://travis-ci.org/iTofu/Grid"><img src="https://img.shields.io/travis/iTofu/Grid.svg?style=flat"></a>
+
+<a href="http://cocoadocs.org/docsets/Gri"><img src="https://img.shields.io/cocoapods/v/Grid.svg"></a>
+
+<a href="https://raw.githubusercontent.com/iTofu/Grid/master/LICENSE"><img src="https://img.shields.io/cocoapods/l/Grid.svg"></a>
+
+<a href="http://cocoadocs.org/docsets/Grid"><img src="https://img.shields.io/cocoapods/p/Grid.svg"></a>
+
+<a href="https://LeoDev.me"><img src="https://img.shields.io/badge/blog-LeoDev.me-brightgreen.svg"></a>
+
+</p>
 
 <p align="center">
 
 <img src="https://raw.githubusercontent.com/iTofu/Grid/master/DemoImages/GirdDemo.png" alt="Gird" title="Gird" width="320"/>
+
+🏁 Grid layout, making views equidistant. Base on [SnapKit](https://github.com/SnapKit/SnapKit). (Waiting [logo](mailto:leodaxia@gmail.com)...)
 
 </p>
 
