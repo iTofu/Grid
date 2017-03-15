@@ -1,6 +1,6 @@
-# Grid
+<H1 align="center">Grid</H1>
 
-🏁 Grid layout, making views equidistant. Base on [SnapKit](https://github.com/SnapKit/SnapKit).
+🏁 Grid layout, making views equidistant. Base on [SnapKit](https://github.com/SnapKit/SnapKit). (Waiting [logo](mailto:leodaxia@gmail.com)...)
 
 [![Travis](https://img.shields.io/travis/iTofu/Grid.svg?style=flat)](https://travis-ci.org/iTofu/Grid)
 [![CocoaPods](https://img.shields.io/cocoapods/v/Grid.svg)](http://cocoadocs.org/docsets/Grid)
@@ -10,7 +10,7 @@
 
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/iTofu/Grid/master/DemoImages/GirdDemo01.png" alt="Gird" title="Gird"/>
+<img src="https://raw.githubusercontent.com/iTofu/Grid/master/DemoImages/GirdDemo.png" alt="Gird" title="Gird" width="320"/>
 
 </p>
 
