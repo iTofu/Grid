@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
 
-  s.name         = "Grid"
+  s.name         = "Grids"
   s.version      = "0.0.1"
   s.summary      = "🏁 Grid layout, making views equidistant. Base on SnapKit. Support: https://LeoDev.me"
   s.homepage     = "https://github.com/iTofu/Grid"
