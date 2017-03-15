@@ -65,7 +65,7 @@ To integrate Grid into your Xcode project using CocoaPods, specify it in your `P
 use_frameworks!
 
 target '<Your Target Name>' do
-    pod 'Grid'
+    pod 'Grids'
 end
 ```
 
