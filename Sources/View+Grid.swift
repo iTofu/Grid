@@ -52,7 +52,7 @@ extension Grid where Base: View {
         for _ in 0...subviews.count {
             let view = View()
             paddings.append(view)
-            (self.base as! View).addSubview(view)
+            (self.base as View).addSubview(view)
             view.snp.makeConstraints({ (make) in
                 make.centerY.equalTo(subviews[0].snp.centerY)
                 make.height.equalTo(subviews[0].snp.height)
@@ -98,7 +98,7 @@ extension Grid where Base: View {
         for _ in 0...subviews.count {
             let view = View()
             paddings.append(view)
-            (self.base as! View).addSubview(view)
+            (self.base as View).addSubview(view)
             view.snp.makeConstraints({ (make) in
                 make.centerX.equalTo(subviews[0].snp.centerX)
                 make.width.equalTo(subviews[0].snp.width)
