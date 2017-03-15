@@ -1,8 +1,4 @@
-<p align="center">
-
-<H1 align="center">Grid</H1>
-
-</p>
+<H1>Grid</H1>
 
 <p align="center">
 
@@ -11,11 +7,10 @@
 <a href="https://raw.githubusercontent.com/iTofu/Grid/master/LICENSE"><img src="https://img.shields.io/cocoapods/l/Grid.svg"></a>
 <a href="http://cocoadocs.org/docsets/Grid"><img src="https://img.shields.io/cocoapods/p/Grid.svg"></a>
 <a href="https://LeoDev.me"><img src="https://img.shields.io/badge/blog-LeoDev.me-brightgreen.svg"></a>
-<img src="https://img.shields.io/badge/Hello-Gird-brightgreen.svg">
 
 </p>
 
-<p align="center">
+<p>
 
 <img src="https://raw.githubusercontent.com/iTofu/Grid/master/DemoImages/GirdDemo.png" alt="Gird" title="Gird" width="320"/>
 
