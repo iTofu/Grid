@@ -1,0 +1,20 @@
+PODS:
+  - Grid (0.0.1):
+    - SnapKit (~> 3.2.0)
+  - SnapKit (3.2.0)
+
+DEPENDENCIES:
+  - Grid (from `../`)
+  - SnapKit (~> 3.2.0)
+
+EXTERNAL SOURCES:
+  Grid:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  Grid: 532ca5c1f7cb63acf7199a362a7b177aa380d2a3
+  SnapKit: 1ca44df72cfa543218d177cb8aab029d10d86ea7
+
+PODFILE CHECKSUM: 4e30c423a5a89a68438310e6c73c3d8504742208
+
+COCOAPODS: 1.2.0
