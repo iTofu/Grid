@@ -76,8 +76,8 @@ If you prefer not to use the aforementioned dependency manager, you can integrat
 * Quick Start:
 
   ```swift
-  let viewX1 = self.generateView(withColor: .green)
-  let viewX2 = self.generateView(withColor: .green)
+  let viewX1 = UIView()
+  let viewX2 = UIView()
 
   self.view.addSubview(viewX1)
   self.view.addSubview(viewX2)
