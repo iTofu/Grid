@@ -14,6 +14,8 @@
 
 <img src="https://raw.githubusercontent.com/iTofu/Grid/master/DemoImages/GirdDemo.png" alt="Gird" title="Gird" width="320"/>
 
+**⚠️ NOTE: This project had migrated to [Grids](https://github.com/iTofu/Grids)!**
+
 🏁 Grid layout, making views equidistantly. Base on [SnapKit](https://github.com/SnapKit/SnapKit). (Waiting [logo](mailto:leodaxia@gmail.com)...)
 
 </p>
